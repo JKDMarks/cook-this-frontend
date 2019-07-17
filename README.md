@@ -1,3 +1,4 @@
+# <img src="https://i.imgur.com/FtclHY5.png" height="30" width="30" alt="chef hat"> Cook This
 A website for scraping recipes and cooking along with them.
 
 **[(Link to Backend)](https://github.com/Jeffrey-Marks/cook-this-backend)**
@@ -6,7 +7,7 @@ A website for scraping recipes and cooking along with them.
 
 I love cooking and I love adding new favorite recipes to my collection. This is a place to store all of those favorites and also cook along with them.
 
-## Features and Challenges
+## Features
 
 Recipes can be scraped from AllRecipes with just a URL. Users can cook along with recipes -- crossing out ingredients that have been used and steps that have been completed. Each recipe page has timers that can be used to keep track of many different steps at once. Recipes can favorited and users can add notes to their favorite recipes.
 
