@@ -15,7 +15,6 @@ Recipes can be scraped from AllRecipes with just a URL. Users can cook along wit
 
 * [React](https://reactjs.org/) - User interface library for JS
 * [React Router](https://reacttraining.com/react-router/) - Manages routes and multiple pages for React
-* [Scryfall](https://scryfall.com/docs/api) - Amazing API for Magic cards
 * [React Semantic](https://react.semantic-ui.com/) - UI library
 * [hh-mm-ss](https://github.com/Goldob/hh-mm-ss) - Date formatting library
 
