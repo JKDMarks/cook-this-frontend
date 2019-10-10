@@ -1,7 +1,7 @@
 # <img src="https://i.imgur.com/FtclHY5.png" height="30" width="30" alt="chef hat"> Cook This
 A website for scraping recipes and cooking along with them.
 
-**[(Link to Backend)](https://github.com/Jeffrey-Marks/cook-this-backend)**
+**[(Link to Backend)](https://github.com/JKDMarks/cook-this-backend)**
 
 ## Inspiration
 
